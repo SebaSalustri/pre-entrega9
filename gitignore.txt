@@ -1,0 +1,17 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Modelos generados
+*.joblib
+
+# Configuracion local
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
